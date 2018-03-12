@@ -5,6 +5,7 @@ naries for programs and plugins
 *.so
 *.dylib
 
+.idea/*
 .DS_Store
 
 # Test binary, build with `go test -c`
