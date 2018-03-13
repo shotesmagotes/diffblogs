@@ -4,6 +4,8 @@ naries for programs and plugins
 *.dll
 *.so
 *.dylib
+*.db
+*.swp
 
 .idea/*
 .DS_Store
