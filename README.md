@@ -1,5 +1,5 @@
 # diffblogs
-A backend for an event driven filesystem tailored for timeline driven news articles on web applications.
+A backend augmenting a filesystem made for versioning and creating timeline driven news articles on web applications.
 
 # How it works
 Whenever a user adds/edits an article in a specified directory, a diff is taken between that article and any past articles of the same name.
